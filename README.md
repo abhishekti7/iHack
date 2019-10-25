@@ -5,6 +5,7 @@ Lack of transparency in the tendering process and assigning contracts to agencie
 HackTenders is an innovative web app which uses one of the most rapidly growing domains of technology i.e. blockchain to solve the problem of tenders being so untransparent, particularly in a country like India. It combines the power of 2 decentralized platforms namely BigchainDB and Inter Planetary File System to make the tendering process super secure and tamper proof. We have seen that many times the tenders or other important papers are tampered with for personal gains. However, as our solution puts each and every tenders and all the bids made for them on a blockchain, it becomes immutable, even to the best attacks.
 
 Also, as we are using open blockchains, the data is available to the entire public and can be easily verified by NGOs too.
+![](70625728.webp)
 
 ## Use Cases
 
@@ -50,7 +51,8 @@ There are three main actors interacting with the system.
 * Setup IPFS and MongoDB
 * Install the required modules mentioned in requirements.txt via pip
 * Run the flask app
-    
+
+
 ## Screenshots
 
 ## Authors
@@ -59,6 +61,7 @@ There are three main actors interacting with the system.
 * **Anubhav Dinesh Patel**
 * **Pulkit Mishra**
 * **Satyam Kumar**
+* **Allu Pavan**
 
 
 
